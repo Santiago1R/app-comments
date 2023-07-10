@@ -1,8 +1,10 @@
+import Card from "./components/Card"
+
 function App() {
   
   return (
     <>
-    <h1>PRUEBA </h1>
+    <Card />
     </>
   )
 }
